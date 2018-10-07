@@ -1,4 +1,5 @@
-// declare your functions here...
-$('p');
+function paragraphSelector() {
+  return ('p')
+}
 $('.pics');
 $('#baby-ninja');
