@@ -1,5 +1,7 @@
 function paragraphSelector() {
-  return ('p')
+  return $('p')
 }
+
+
 $('.pics');
 $('#baby-ninja');
